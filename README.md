@@ -36,7 +36,7 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/214765255-80bc4fd8-f4f0-4363-ac83-dd6ac39be9bb.png" alt="Om's Logo Image"/>
+  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
 </p>
 
 
