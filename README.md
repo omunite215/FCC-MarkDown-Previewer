@@ -4,8 +4,6 @@ This is a Markdown Previewer Project on React!!
 
 The project is hosted on Netlify : https://fccmarkdownpreviewerbyom.netlify.app/
 
-I have written Comments wherever neccessary. I have divided this site into two components: Navbar and Quote section respectively. Feel free to learn and use this code and always welcoming relevant feedbacks.
-
 I am not removing react's readme files because, it will help you using react as well. Thanks!!
 
 Om Patel(A Front-End Development Enthusiast)
